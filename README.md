@@ -42,7 +42,7 @@ The RNGs include:
 version of the MT19937 generator that is especially fast at generating doubles
 * [xorshift128+](http://xorshift.di.unimi.it/) and 
 [xorshift1024*](http://xorshift.di.unimi.it/)
-* [PCG32](http://www.pcg-random.org/) and [PCG64](http:w//www.pcg-random.org/)
+* [PCG32](http://www.pcg-random.org/) and [PCG64](http://www.pcg-random.org/)
 * [MRG32K3A](http://simul.iro.umontreal.ca/rng)
 * A multiplicative lagged fibonacci generator (LFG(63, 1279, 861, *))
 
